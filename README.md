@@ -22,8 +22,6 @@ Computer Move (O): D4
 ```
 <p>To change the size goto file <i>TicTacToe.java</i> and set to variable <emp>MAX_SIZE</emp> the preferred size</p>
 
-<p><h2>license:</h2></p>
-
 <h2>About:</h2>
 <p><b>Author: </b><a href="https://github.com/bill-chamal">Bill Chamalidis</a> <a href="https://www.uom.gr/">University of Macedonia</a></p>
 <p><b>Created:</b> 11/05/2022</p>
