@@ -1,6 +1,6 @@
 package tictactoe;
 /*
- *@author 		Chamalidis Basilis-Sotiris 
+ *@author 		Bill Chamalidis 
  *@exercise 	1 TIC-TAC-TOE
  */
 
